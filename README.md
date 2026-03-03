@@ -18,6 +18,7 @@ Free Backend Hosting:
 | Github Pages     | ~100 GB     | HTML/CSS/JS | https://github.com                           |
 | Vercel           | ~100 GB     | Any         | https://vercel.com                           |
 | Cloudflare Pages | ∞ GB        | HTML/CSS/JS | https://pages.cloudflare.com                 |
+| Netlify          | ~100 GB     | Any         | https://netlify.com                          |
 | Nekoweb          | 0.5 GB      | HTML/CSS/JS | https://nekoweb.org                          |
 | Neocities        | 1.0 GB      | HTML/CSS/JS | https://neocities.org                        |
 
@@ -38,5 +39,6 @@ Free Backend Hosting:
 | --------------- | ----------- | -------------------------------------------- |
 | Github gist     | 1 GB        | https://gist.github.com                      |
 | 0x0.st          | 10 GB       | https://0x0.st                               |
+| catbox          | 0.2 GB      | https://catbox.moe                           |
 
 Subsribe: <a target="_blank" href="https://t.me/+_IvRIMc5cO9kZWQ6">channel</a>
