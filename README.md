@@ -18,6 +18,7 @@ Free Backend Hosting:
 | Github Pages     | ~100 GB     | HTML/CSS/JS | https://github.com                           |
 | Vercel           | ~100 GB     | Any         | https://vercel.com                           |
 | Cloudflare Pages | ∞ GB        | HTML/CSS/JS | https://pages.cloudflare.com                 |
+| Codeberg         | 1.0 GB      | HTML/CSS/JS | https://codeberg.org                         |
 | Netlify          | ~100 GB     | Any         | https://netlify.com                          |
 | Nekoweb          | 0.5 GB      | HTML/CSS/JS | https://nekoweb.org                          |
 | Neocities        | 1.0 GB      | HTML/CSS/JS | https://neocities.org                        |
